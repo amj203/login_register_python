@@ -1,3 +1,5 @@
+# Abdulrazzak Jouhar 2020
+
 def login(name,password):
 	succes = False
 	file = open('log_reg.txt','r')
